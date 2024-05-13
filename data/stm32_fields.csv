@@ -1,0 +1,15 @@
+column,endianness,nbytes
+0x57,big,1
+Gyro_X,big,2
+Gyro_Y,big,2
+Gyro_Z,big,2
+Gyro_Temp,big,1
+SS_PX,little,2
+SS_MX,little,2
+SS_PY,little,2
+SS_MY,little,2
+SS_PZ,little,2
+SS_MZ,little,2
+Mgm_X,big,3
+Mgm_Y,big,3
+Mgm_Z,big,3
